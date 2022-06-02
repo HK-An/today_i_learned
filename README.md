@@ -7,7 +7,8 @@
 - [TDD란?](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/tdd/tdd_definition.md)
 
 # JAVA
- 
+## 디자인패턴
+- [JPA Entity](https://github.com/HK-An/today_i_learned/blob/main/JAVA/design/entity_definition.md)
 # SPRING
 
 # RDB
