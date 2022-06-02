@@ -3,10 +3,11 @@
 
 # CONCEPT
 - [리팩토링이란?](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/refactoring/refactoring_definition.md)
+- [OOP란?](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/oop/oop_definition.md)
+- [TDD란?](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/tdd/tdd_definition.md)
 
 # JAVA
- - [OOP란?](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/oop/oop_definition.md)
- - [TDD란?](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/tdd/tdd_definition.md)
+ 
 # SPRING
 
 # RDB
