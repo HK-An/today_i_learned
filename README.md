@@ -14,8 +14,7 @@
 
 # JAVA
 ## 디자인패턴
-- [JPA Entity](https://github.com/HK-An/today_i_learned/blob/main/JAVA/design/entity_definition.md)
-- [DTO](https://github.com/HK-An/today_i_learned/blob/main/JAVA/design/dto_defintion.md)
+- [DTO, Entity, VO의 차이점](https://github.com/HK-An/today_i_learned/blob/main/JAVA/design/differences_between_dto_entitity_vo.md)
 # SPRING
 
 # RDB
