@@ -1,3 +1,4 @@
+###### 작성일 : 2022년 06월 03일
 # 정리
 1. [VO](https://github.com/HK-An/today_i_learned/blob/main/JAVA/design/vo_defintion.md): 단순한 개체를 표현하는 작은 오브젝트의 단위이며 값 자체를 표현함. 약간의 비즈니스 로직은 구현가능하지만 수정불가.
 2. [DTO](https://github.com/HK-An/today_i_learned/blob/main/JAVA/design/dto_defintion.md): 계층간의 데이터 교환을 위하여 만들어지는 오브젝트이며 가변적이지만 데이터 핸들링을 제외한 비즈니스 로직은 포함되어서는 안됨.
