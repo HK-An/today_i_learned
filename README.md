@@ -12,6 +12,7 @@
 - [리팩토링](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/refactoring/refactoring_definition.md)
 - [OOP](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/oop/oop_definition.md)
 - [TDD](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/tdd/tdd_definition.md)
+- [MVC2](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/mvc/definition.md)
 ***
 # :space_invader: JAVA
 ### 개념
