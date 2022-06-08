@@ -2,11 +2,11 @@
 공부한 내용을 정리해놓은 것들.
 
 ## :link: 바로가기
-- [개념정리](https://github.com/HK-An/today_i_learned#concept)
-- [Java관련](https://github.com/HK-An/today_i_learned#java)
-- [Spring관련](https://github.com/HK-An/today_i_learned#spring)
-- [RDB관련](https://github.com/HK-An/today_i_learned#rdb)
-- [알고리즘](https://github.com/HK-An/today_i_learned#알고리즘)
+- [개념정리](https://github.com/HK-An/today_i_learned#school-concept)
+- [Java관련](https://github.com/HK-An/today_i_learned#space_invader-java)
+- [Spring관련](https://github.com/HK-An/today_i_learned#leaves-spring)
+- [RDB관련](https://github.com/HK-An/today_i_learned#floppy_disk-rdb)
+- [알고리즘](https://github.com/HK-An/today_i_learned#bangbang-알고리즘)
 ***
 # :school: CONCEPT
 - [리팩토링](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/refactoring/refactoring_definition.md)
