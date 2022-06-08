@@ -15,14 +15,14 @@ Stream은 Java 8에 추가되었으며, Lamda를 통하여 for 혹은 foreach �
 
 ## Stream 사용하기
 Streams에 관한 내용은 크게 세 가지로 나눌 수 있다.  
-1.  생성하기
-2.  가공하기
-3.  결과 만들기 : 최종적으로 결과를 만들어 내는 작업
+1.  [생성하기](https://github.com/HK-An/today_i_learned/blob/main/JAVA/streams_definition_and_usage.md#%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+2.  [가공하기](https://github.com/HK-An/today_i_learned/blob/main/JAVA/streams_definition_and_usage.md#%EA%B0%80%EA%B3%B5%ED%95%98%EA%B8%B0)
+3.  [결과 만들기](https://github.com/HK-An/today_i_learned/blob/main/JAVA/streams_definition_and_usage.md#%EA%B2%B0%EA%B3%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 흐름 : 전체 → mapping → filtering1 → filtering2 → 결과 만들기 → 결과물
+<hr>
 
 ### 생성하기
-
 Stream을 사용하기 위한 Stream Instance를 생성하는 단계이다. 배열, Collection, 수 또는 파일 등 다양한 종류의 데이터를 가지고 Stream을 생성할 수 있다.
 
 #### 배열 Stream
@@ -93,8 +93,8 @@ Stream<String> stream1 = Stream.of("Java", "Scala", "Groovy");
 Stream<String> stream2 = Stream.of("Python", "Go", "Swift");
 Stream<String> concat = Stream.concat(stream1, stream2);
 // [Java, Scala, Groovy, Python, Go, Swift]
-
 ```
+<hr>
 
 ### 가공하기
 
@@ -195,6 +195,7 @@ int sum = IntStream.of(1, 3, 5, 7, 9)
   .sum();
 
 ```
+<hr>
 
 ### 결과 만들기
 가공된 데이터로 원하는 결과를 만들기 위한 최종 연산단계이며 Stream의 요소들을 소모하여 연산하기 때문에 1번만 수행 가능하다.
@@ -365,6 +366,7 @@ boolean noneMatch = names.stream()
 #### Iterating
 
 `peek`과는 중간 작업인지 최종 작업인지 정도의 차이를 가지고 있으며 보통 `System.out.println` 메소드를 넘겨서 결과를 출력할 때 사용한다.
+<hr>
 
 >출처
 > - https://futurecreator.github.io/2018/08/26/java-8-streams/
