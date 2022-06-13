@@ -6,7 +6,7 @@
 - [Java관련](https://github.com/HK-An/today_i_learned#space_invader-java)
 - [Spring관련](https://github.com/HK-An/today_i_learned#leaves-spring)
 - [RDB관련](https://github.com/HK-An/today_i_learned#floppy_disk-rdb)
-- [알고리즘](https://github.com/HK-An/today_i_learned#bangbang-알고리즘)
+- [알고리즘](https://github.com/HK-An/today_i_learned#bangbang-코딩문제풀이)
 ***
 # :school: CONCEPT
 - [리팩토링](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/refactoring/refactoring_definition.md)
@@ -27,8 +27,10 @@
 ***
 # :floppy_disk: RDB
 ***
-# :bangbang: 알고리즘
+# :bangbang: 코딩문제풀이
 ### 문제풀이
 #### 프로그래머스
+***Lv1***
+- [신고결과받기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/report_result.md)
 ***Lv2***
 - [문자열압축](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/practice/programmers/lv2/string_compression.md)
