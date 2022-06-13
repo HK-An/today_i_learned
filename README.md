@@ -6,7 +6,7 @@
 - [Java관련](https://github.com/HK-An/today_i_learned#space_invader-java)
 - [Spring관련](https://github.com/HK-An/today_i_learned#leaves-spring)
 - [RDB관련](https://github.com/HK-An/today_i_learned#floppy_disk-rdb)
-- [알고리즘](https://github.com/HK-An/today_i_learned#bangbang-코딩문제풀이)
+- [코딩문제풀이](https://github.com/HK-An/today_i_learned#bangbang-코딩문제풀이)
 ***
 # :school: CONCEPT
 - [리팩토링](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/refactoring/refactoring_definition.md)
