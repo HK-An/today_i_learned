@@ -14,6 +14,7 @@
 - [TDD](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/tdd/tdd_definition.md)
 - [MVC2](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/mvc/definition.md)
 - [오버로딩 vs 오버라이딩](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/overrloading_vs_overriding.md)
+- [추상클래스 vs 인터페이스](https://github.com/HK-An/today_i_learned/blob/main/JAVA/concept/interface_vs_abstract.md)
 ***
 # :space_invader: JAVA
 ### 개념
