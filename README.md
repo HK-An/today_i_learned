@@ -38,6 +38,7 @@
 - [2016년](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/yerar2016.md)
 - [숫자 문자열과 영단어](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/converting_game.md)
 - [내적](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/dot_product.md)
+- [키패드 누르기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/pressing_keypad.md)
 
 ***Lv2***
 - [문자열압축](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/practice/programmers/lv2/string_compression.md)
