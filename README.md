@@ -13,8 +13,7 @@
 - [OOP](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/oop/oop_definition.md)
 - [TDD](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/tdd/tdd_definition.md)
 - [MVC2](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/mvc/definition.md)
-- [Overloading](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/overloading_definition.md)
-- [Overriding](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/overriding_definition.md)
+- [오버로딩 vs 오버라이딩](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/overrloading_vs_overriding.md)
 ***
 # :space_invader: JAVA
 ### 개념
