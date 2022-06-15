@@ -33,6 +33,9 @@
 ***Lv1***
 - [신고결과받기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/report_result.md)    
 - [로또의 최고 순위와 최저 순위](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/lotto.md)
+- [가운데 글자 가져오기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/get_center_character.md)
+- [신규 아이디 추천](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/id_recommendation.md)
+- [2016년](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/yerar2016.md)
 
 ***Lv2***
 - [문자열압축](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/practice/programmers/lv2/string_compression.md)
