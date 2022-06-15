@@ -36,6 +36,8 @@
 - [가운데 글자 가져오기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/get_center_character.md)
 - [신규 아이디 추천](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/id_recommendation.md)
 - [2016년](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/yerar2016.md)
+- [숫자 문자열과 영단어](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/converting_game.md)
+- [내적](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/dot_product.md)
 
 ***Lv2***
 - [문자열압축](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/practice/programmers/lv2/string_compression.md)
