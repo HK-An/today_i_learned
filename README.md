@@ -2,17 +2,19 @@
 공부한 내용을 정리해놓은 것들.
 
 ## :link: 바로가기
-- [개념정리](https://github.com/HK-An/today_i_learned#school-concept)
+- [개념정리](https://github.com/HK-An/today_i_learned#school-computer_science)
 - [Java관련](https://github.com/HK-An/today_i_learned#space_invader-java)
 - [Spring관련](https://github.com/HK-An/today_i_learned#leaves-spring)
 - [RDB관련](https://github.com/HK-An/today_i_learned#floppy_disk-rdb)
 - [코딩문제풀이](https://github.com/HK-An/today_i_learned#bangbang-코딩문제풀이)
 ***
-# :school: CONCEPT
+# :school: COMPUTER_SCIENCE
 - [리팩토링](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/refactoring/refactoring_definition.md)
 - [OOP](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/oop/oop_definition.md)
 - [TDD](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/tdd/tdd_definition.md)
 - [MVC2](https://github.com/HK-An/today_i_learned/blob/main/CONCEPT/mvc/definition.md)
+- [Overloading](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/overloading_definition.md)
+- [Overriding](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/overriding_definition.md)
 ***
 # :space_invader: JAVA
 ### 개념
