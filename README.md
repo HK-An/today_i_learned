@@ -6,7 +6,7 @@
 - [Java관련](https://github.com/HK-An/today_i_learned#space_invader-java)
 - [Spring관련](https://github.com/HK-An/today_i_learned#leaves-spring)
 - [RDB관련](https://github.com/HK-An/today_i_learned#floppy_disk-rdb)
-- [알고리즘관련](https://github.com/HK-An/today_i_learned#+1-ALGORITHM)
+- [알고리즘관련](https://github.com/HK-An/today_i_learned#1-algorithm)
 - [코딩문제풀이](https://github.com/HK-An/today_i_learned#bangbang-코딩문제풀이)
 ***
 # :school: COMPUTER_SCIENCE
