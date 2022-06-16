@@ -6,6 +6,7 @@
 - [Java관련](https://github.com/HK-An/today_i_learned#space_invader-java)
 - [Spring관련](https://github.com/HK-An/today_i_learned#leaves-spring)
 - [RDB관련](https://github.com/HK-An/today_i_learned#floppy_disk-rdb)
+- [알고리즘관련](https://github.com/HK-An/today_i_learned#+1-ALGORITHM)
 - [코딩문제풀이](https://github.com/HK-An/today_i_learned#bangbang-코딩문제풀이)
 ***
 # :school: COMPUTER_SCIENCE
@@ -29,10 +30,15 @@
 ***
 # :floppy_disk: RDB
 ***
+# :+1: ALGORITHM
+- [DFS(깊이우선탐색)](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/DFS/definition.md)
+
 # :bangbang: 코딩문제풀이
 ### 문제풀이
 #### 프로그래머스
-***Lv1***
+<details>
+  <summary>Lv1</summary>
+  
 - [신고결과받기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/report_result.md)    
 - [로또의 최고 순위와 최저 순위](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/lotto.md)
 - [가운데 글자 가져오기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/get_center_character.md)
@@ -41,6 +47,10 @@
 - [숫자 문자열과 영단어](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/converting_game.md)
 - [내적](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/dot_product.md)
 - [키패드 누르기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/pressing_keypad.md)
-
-***Lv2***
+</details>
+  
+<details>
+  <summary>Lv2</summary>
+  
 - [문자열압축](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/practice/programmers/lv2/string_compression.md)
+</details>
