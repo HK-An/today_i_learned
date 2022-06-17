@@ -23,6 +23,8 @@
 - [직렬화와 SerialVersionUID](https://github.com/HK-An/today_i_learned/blob/main/JAVA/concept/serialize_definition.md)
 ### 디자인패턴
 - [DTO, Entity, VO의 차이점](https://github.com/HK-An/today_i_learned/blob/main/JAVA/design/differences_between_dto_entitity_vo.md)
+### 기본API
+- [java.util.*](https://github.com/HK-An/today_i_learned/blob/main/JAVA/api/java.util.all.md)
 ### 기타
 - [Stream](https://github.com/HK-An/today_i_learned/blob/main/JAVA/streams_definition_and_usage.md)
 ***
