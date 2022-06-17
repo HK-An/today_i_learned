@@ -50,6 +50,7 @@
 - [숫자 문자열과 영단어](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/converting_game.md)
 - [내적](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/dot_product.md)
 - [키패드 누르기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/pressing_keypad.md)
+- [K번째 수](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/kth_number.md)
 </details>
   
 <details>
