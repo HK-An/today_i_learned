@@ -53,6 +53,7 @@
 - [키패드 누르기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/pressing_keypad.md)
 - [K번째 수](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/kth_number.md)
 - [크레인 인형뽑기 게임](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/claw_crane_game.md)
+- [없는 숫자 더하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/sum_of_absence_number.md)
 </details>
   
 <details>
