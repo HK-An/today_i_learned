@@ -55,6 +55,7 @@
 - [크레인 인형뽑기 게임](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/claw_crane_game.md)
 - [없는 숫자 더하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/sum_of_absence_number.md)
 - [음양 더하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/positive_and_negative.md)
+- [소수 만들기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/making_prime_number.md)
 </details>
   
 <details>
