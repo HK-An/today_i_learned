@@ -43,6 +43,7 @@
 <details>
   <summary>Lv1</summary>
   
+  **LV1 진행률: 23%(13/55)**
 - [신고결과받기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/report_result.md)    
 - [로또의 최고 순위와 최저 순위](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/lotto.md)
 - [가운데 글자 가져오기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/get_center_character.md)
@@ -53,6 +54,9 @@
 - [키패드 누르기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/pressing_keypad.md)
 - [K번째 수](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/kth_number.md)
 - [크레인 인형뽑기 게임](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/claw_crane_game.md)
+- [없는 숫자 더하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/sum_of_absence_number.md)
+- [음양 더하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/positive_and_negative.md)
+- [소수 만들기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/making_prime_number.md)
 </details>
   
 <details>
