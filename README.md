@@ -18,6 +18,7 @@
 - [추상클래스 vs 인터페이스](https://github.com/HK-An/today_i_learned/blob/main/JAVA/concept/interface_vs_abstract.md)
 - [메모리의구조(코드, 데이터, 힙, 스택 영역)](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/memory/structure.md)
 - [의존성주입(DI)](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/DI/definition.md)
+- [해시(자료구조)](https://github.com/HK-An/today_i_learned/blob/main/COMPUTER_SCIENCE/hash/definition.md)
 ***
 # :space_invader: JAVA
 ### 개념
