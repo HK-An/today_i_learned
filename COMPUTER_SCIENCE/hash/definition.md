@@ -41,3 +41,9 @@ Linear Probing이 바로 다음 주솟값에 삽입하는 방법이면, Quadrati
 해시 연산을 2번하여 해시 충돌을 피하는 방법으로써, "해쉬 값이 같으면 충돌 발생시 빈 슬롯을 찾기 위해 접근하는 위치가 늘 동일하다"라는 문제점에서 착안한 방법이다.  
 1차 해시함수는 기존 방법과 같이 키를 근거로 주솟값을 연산하며,  
 2차 해시함수는 해시충돌 발생시 몇칸 뒤를 살필지 결정한다.
+
+> 출처  
+> https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%95%A8%EC%88%98
+> https://www.codingeek.com/data-structure/complete-guide-open-addressing-classification-eliminate-collisions/attachment/linear-and-quadratic-probing/  
+> https://en.wikipedia.org/wiki/Open_addressing
+> https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=wpdls6012&logNo=220482453361
