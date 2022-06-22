@@ -355,19 +355,24 @@ Collector<Product, ?, LinkedList<Product>> toLinkedList =
 -   모두 조건을 만족하지 않는지(_noneMatch_)
 ```java
 List<String> names = Arrays.asList("Eric", "Elena", "Java");
-
-boolean anyMatch = names.stream()
-  .anyMatch(name -> name.contains("a")); // true
-boolean allMatch = names.stream()
-  .allMatch(name -> name.length() > 3); // true
-boolean noneMatch = names.stream()
-  .noneMatch(name -> name.endsWith("s")); // true
+boolean anyMatch = names.stream().anyMatch(name -> name.contains("a")); // true
+boolean allMatch = names.stream().allMatch(name -> name.length() > 3); // true
+boolean noneMatch = names.stream().noneMatch(name -> name.endsWith("s")); // true
 ```
 
 #### Iterating
-
 `peek`과는 중간 작업인지 최종 작업인지 정도의 차이를 가지고 있으며 보통 `System.out.println` 메소드를 넘겨서 결과를 출력할 때 사용한다.
-<hr>
+<hr />
+
+## 그외
+- [Int 배열을 List로 바꾸기]()
+
+##### Int 배열을 List로 바꾸기
+```java
+int[] numArr = {1,2,3};
+List<Integer> numberList
+                = Arrays.stream(numArr).boxed().collect(Collectors.toList());
+```
 
 >출처
 > - https://futurecreator.github.io/2018/08/26/java-8-streams/
