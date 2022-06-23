@@ -44,7 +44,7 @@
 <details>
   <summary>Lv1</summary>
   
-  **LV1 진행률: 42.85%(15/35)**
+  **LV1 진행률: 54.28%(19/35)**
 - [신고결과받기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/report_result.md)    
 - [로또의 최고 순위와 최저 순위](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/lotto.md)
 - [가운데 글자 가져오기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/get_center_character.md)
@@ -61,6 +61,9 @@
 - [체육복](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/pe_clothes.md)
 - [폰켓몬](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/pocketmon.md)
 - [모의고사](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/trial_exam.md)
+- [실패율](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/failure_rate.md)
+- [약수의 개수와 덧셈](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/divisor.md)
+- [3진법 뒤집기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/reverse_ternary.md)
 </details>
   
 <details>
