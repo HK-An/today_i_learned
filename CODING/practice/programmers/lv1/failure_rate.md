@@ -1,6 +1,6 @@
 [문제 페이지로 이동](https://programmers.co.kr/learn/courses/30/lessons/42889)   
 [나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers-lv1-failure_rate/src/main/java/kr/hk/Solution.java)
-###### 해결한 날짜 : 2022년 6월 13일
+###### 해결한 날짜 : 2022년 6월 23일
 # 문제설명
 <img src="https://grepp-programmers.s3.amazonaws.com/files/production/bde471d8ac/48ddf1cc-c4ea-499d-b431-9727ee799191.png">  
 
