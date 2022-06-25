@@ -44,7 +44,7 @@
 <details>
   <summary>Lv1</summary>
   
-  **LV1 진행률: 71.42%(25/35)**
+  **LV1 진행률: 69.09%(38/55)**
 - [신고결과받기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/report_result.md)    
 - [로또의 최고 순위와 최저 순위](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/lotto.md)
 - [가운데 글자 가져오기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/get_center_character.md)
@@ -70,6 +70,19 @@
 - [나머지가 1이 되는 수 찾기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/remain.md)
 - [부족한 금액 계산하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/price_of_rides.md)
 - [비밀지도](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/secret_map.md)
+- [같은 숫자는 싫어](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/remove_duplicated.md)
+- [다트 게임](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/dart_game.md)
+- [나누어 떨어지는 숫자 배열](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/no_remains.md)
+- [두 정수 사이의 합](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/sum_of_two_numbers.md)
+- [문자열 내 마음대로 정렬하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/arranging_string.md)
+- [문자열 내 p와 y의 개수](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/num_of_p_and_y.md)
+- [문자열 내림차순으로 배치하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/num_of_p_and_y0.md)
+- [문자열 다루기 기본](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/string_for_biginner.md)
+- [소수 찾기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/find_prime_number.md)
+- [수박수박수박수박수박수?](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/reiterate.md)
+- [문자열을 정수로 바꾸기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/parseInt.md)
+- [시저 암호](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/ceasar_cipher.md)
+- [약수의 합](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/sum_of_divisor.md)
 </details>
   
 <details>
