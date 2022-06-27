@@ -44,7 +44,8 @@
 <details>
   <summary>Lv1</summary>
   
-  **LV1 진행률: 69.09%(38/55)**
+  **LV1 진행률: 100.00%(55/55)**
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0790cda2-3ac5-49d8-8f6d-b0ac56eb10d2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220627%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220627T132150Z&X-Amz-Expires=86400&X-Amz-Signature=7a7af63a4e478e14e83de9bfafa72ebc42a179fa15d9047437236816a32cc9ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
 - [신고결과받기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/report_result.md)    
 - [로또의 최고 순위와 최저 순위](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/lotto.md)
 - [가운데 글자 가져오기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/get_center_character.md)
@@ -83,6 +84,21 @@
 - [문자열을 정수로 바꾸기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/parseInt.md)
 - [시저 암호](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/ceasar_cipher.md)
 - [약수의 합](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/sum_of_divisor.md)
+- [이상한 문자 만들기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/weird_string.md)
+- [자릿수 더하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/sum_of_digits.md)
+- [자연수 뒤집어 배열로 만들기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/reversing_number.md)
+- [정수 내림차순으로 배치하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/int_order_by_desc.md)
+- [정수 제곱근 판별](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/judge_squart.md)
+- [제일 작은 수 제거하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/removing_smallest.md)
+- [짝수와 홀수](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/even_and_odd.md)
+- [최대공약수와 최소공배수](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/gcd_and_lcm.md)
+- [콜라츠 추측](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/collatz_conjecture.md)
+- [평균 구하기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/get_average.md)
+- [햐샤드 수](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/harshad_number.md)
+- [핸드폰 번호 가리기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/masking_number.md)
+- [행렬의 덧셈](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/sum_of_arrays.md)
+- [x만큼 간격이 있는 n개의 숫자](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/gap_numbers.md)
+- [직사각형 별찍기](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv1/stars.md)
 </details>
   
 <details>
