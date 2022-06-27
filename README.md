@@ -42,7 +42,7 @@
 ### 문제풀이
 #### 프로그래머스
 <details>
-  <summary>Lv1</summary>
+  <summary>Lv1 (Clear!)</summary>
   
   **LV1 진행률: 100.00%(55/55)**
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0790cda2-3ac5-49d8-8f6d-b0ac56eb10d2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220627%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220627T132150Z&X-Amz-Expires=86400&X-Amz-Signature=7a7af63a4e478e14e83de9bfafa72ebc42a179fa15d9047437236816a32cc9ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
