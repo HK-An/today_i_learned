@@ -37,6 +37,7 @@
 ***
 # :+1: ALGORITHM
 - [DFS(깊이우선탐색)](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/DFS/definition.md)
+- [탐욕알고리즘](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/greedy/definition.md)
 
 # :bangbang: 코딩문제풀이
 ### 문제풀이
