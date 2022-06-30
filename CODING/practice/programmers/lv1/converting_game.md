@@ -1,5 +1,5 @@
 [문제 페이지로 이동](https://programmers.co.kr/learn/courses/30/lessons/81301)   
-[나의풀이](https://github.com/HK-An/coding_practice/tree/main/CodingPractice/programmers-lv1-converting_game)
+[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers/src/main/java/kr/hk/lv1/ConvertingGame.java)
 ###### 해결한 날짜 : 2022년 6월 15일
 # 문제설명
 <img src="https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/d31cb063-4025-4412-8cbc-6ac6909cf93e/img1.png" />

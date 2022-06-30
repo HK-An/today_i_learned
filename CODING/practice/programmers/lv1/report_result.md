@@ -1,5 +1,5 @@
 [문제 페이지로 이동](https://programmers.co.kr/learn/courses/30/lessons/92334)   
-[나의풀이](https://github.com/HK-An/coding_practice/tree/main/CodingPractice/programmers-lv1-report_result)
+[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers/src/main/java/kr/hk/lv1/ReportResult.java)
 ###### 해결한 날짜 : 2022년 5월 ?일
 # 문제설명
 신입사원 무지는 게시판 불량 이용자를 신고하고 처리 결과를 메일로 발송하는 시스템을 개발하려 합니다. 무지가 개발하려는 시스템은 다음과 같습니다.
