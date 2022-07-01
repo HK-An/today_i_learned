@@ -1,5 +1,5 @@
 [문제 페이지로 이동](https://programmers.co.kr/learn/courses/30/lessons/67256)   
-[나의풀이](https://github.com/HK-An/coding_practice/tree/main/CodingPractice/programmers-lv1-pressing_keypad)
+[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers/src/main/java/kr/hk/lv1/PressingKeypad.java)
 ###### 해결한 날짜 : 2022년 6월 13일
 # 문제설명
 스마트폰 전화 키패드의 각 칸에 다음과 같이 숫자들이 적혀 있습니다.
