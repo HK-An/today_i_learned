@@ -17,3 +17,6 @@
 - 1444와 72의 최소공배수 구하기  
 > 위의 내용에서 이어짐  
 > **lcm(1444, 72) = 1444 * 72 / gcd(1444, 72) = 25992**
+
+## 구현코드
+https://github.com/HK-An/coding_practice/blob/main/CodingPractice/math/src/main/java/kr/hk/number/EuclideanAlgorithm.java
