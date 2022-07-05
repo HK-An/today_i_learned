@@ -1,5 +1,5 @@
 [문제 페이지로 이동](https://programmers.co.kr/learn/courses/30/lessons/86051)   
-[나의풀이](https://github.com/HK-An/coding_practice/tree/main/CodingPractice/programmers-lv1-sum_of_abscence_number)
+[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers/src/main/java/kr/hk/lv1/SumOfAbsenceNumber.java)
 ###### 해결한 날짜 : 2022년 6월 20일
 # 문제설명
 0부터 9까지의 숫자 중 일부가 들어있는 정수 배열 `numbers`가 매개변수로 주어집니다. `numbers`에서 찾을 수 없는 0부터 9까지의 숫자를 모두 찾아 더한 수를 return 하도록 solution 함수를 완성해주세요.
