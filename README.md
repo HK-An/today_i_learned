@@ -111,4 +111,5 @@
 - [124 나라의 숫자](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv2/weird_number.md)
 - [2 x n 타일링](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv2/tile.md)
 - [올바른 괄호](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv2/bracket.md)
+- [멀쩡한 사각형](https://github.com/HK-An/today_i_learned/blob/main/CODING/practice/programmers/lv2/grid.md)
 </details>
