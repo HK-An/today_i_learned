@@ -14,3 +14,11 @@
 ## 데이터가 트리형태가 아닌 그래프 형태일 경우
 <img src="https://gmlwjd9405.github.io/images/algorithm-dfs-vs-bfs/dfs-example.png">
 위의 방법을 사용하여 depth를 정한 이후 사용한다.
+
+## DFS의 시간복잡도
+- DFS는 그래프(정점의 수: N, 간선의 수: E)의 모든 간선을 조회한다.
+    - 인접 리스트로 표현된 그래프: O(N+E)
+    - 인접 행렬로 표현된 그래프: O(N^2)
+
+###### 참조
+> https://gmlwjd9405.github.io/2018/08/14/algorithm-dfs.html
