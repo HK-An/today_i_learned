@@ -21,6 +21,9 @@
 ***
 # :space_invader: JAVA
 ### 개념
+- [자바의 특징](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#%EC%9E%90%EB%B0%94%EC%9D%98-%ED%8A%B9%EC%A7%95)
+- [자바의 컴파일 과정](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#%EC%9E%90%EB%B0%94%EC%9D%98-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95)
+- [JVM의 구조](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#jvm%EC%9D%98-%EA%B5%AC%EC%A1%B0)
 - [직렬화와 SerialVersionUID](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/concept/serialize_definition.md)
 ### 디자인
 - [DTO, Entity, VO의 차이점](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/design/differences_between_dto_entitity_vo.md)
