@@ -1,4 +1,8 @@
 # 기본 개념이 되는 내용들
+## 목차
+1. [자바의 특징](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#%EC%9E%90%EB%B0%94%EC%9D%98-%ED%8A%B9%EC%A7%95)
+2. [자바의 컴파일 과정](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#%EC%9E%90%EB%B0%94%EC%9D%98-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95)
+3. [JVM의 구조](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#jvm%EC%9D%98-%EA%B5%AC%EC%A1%B0)
 
 ## 자바의 특징
 1. `이식성`이 높은 언어이다. (어떤 운영체제에서도 작동 가능하다.)
@@ -33,3 +37,13 @@
 - `메소드 영역(Method Area)`: JVM이 시작할 때 생성되고 모든 스레드가 공유하는 영역으로 코드에서 사용되는 클래스들을 클래스로더로 읽어들여 **클래스별로 분류하고 저장**
 - `힙 영역(Heap Area)`: **객체와 배열이 생성되는 영역**. JVM 스택 영역의 변수나 다른 객체의 필드에서 참조한다. 참조하는 변수나 필드가 없다면 의미가 없으므로 **Garbage Collector**가 미사용되는 쓰레기 객체를 힙 영역에서 자동으로 제거한다.
 - `JVM Stack`: **각 스레드마다 하나 존재하며 스레드가 시작될 때 할당**된다. 메소드를 호출할 때마다 프레임을 추가(push)하고 메소드가 종료되면 해당 프레임을 제거(pop)하는 동작을 수행한다. 프레임 내부에는 `로컬 변수 스택`이 존재할 수 있다.
+- `PC Registers`: 실행할 명령의 주소를 가지고 있음
+- `Native Method Stacks`: 스레드에서 네이티브 방식의 메소드가 실행되면 해당 스택에 쌓인다.
+
+### 2. Execution Engine
+> 클래스로더에 의해 JVM 메모리 공간에 적재된 바이트 코드를 실행하기 전에 기계어로 변경 후 사용한다.
+
+변경 방법에는 인터프리터(Interpreter)와 JIT(Just-In-Time) compiler가 있다.
+
+### 3. Native Method Interface
+자바 가상 머신 위에서 실행되고 있는 자바 코드가 네이티브 응용 프로그램(하드웨어와 운영 체제 플랫폼에 종속된 프로그램들)과 다른 언어들로 작성된 라이브러리들을 호출하거나 반대로 호출되는 것을 가능하게 하는 프로그래밍 프레임워크입니다.
