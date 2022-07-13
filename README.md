@@ -20,11 +20,26 @@
 - [IOC vs DI](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/DI_vs_IOC.md)
 ***
 # :space_invader: JAVA
-### 개념
-- [자바의 특징](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#자바의-특징)
-- [자바의 컴파일 과정](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#자바의-컴파일-과정)
-- [JVM의 구조](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#jvm의-구조)
-- [직렬화와 SerialVersionUID](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/concept/serialize_definition.md)
+### 개념 [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md)
+- 자바의 특징
+- 자바의 컴파일 과정
+- JVM의 구조
+- 가비지 컬렉션의 동작흐름
+- 클래스
+- 객체
+- 캡슐화
+- 상속
+- 다형성
+- Static
+- Final
+- 접근제어자
+- 인터페이스 vs 추상클래스
+- 어노테이션
+- Overloding vs overrloading
+- Thread
+- 동기화 메소드
+- 직렬화와 SerialVersionUID
+
 ### 디자인
 - [DTO, Entity, VO의 차이점](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/design/differences_between_dto_entitity_vo.md)
 - [추상클래스 vs 인터페이스](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/concept/interface_vs_abstract.md)
