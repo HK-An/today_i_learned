@@ -4,8 +4,9 @@
 ## Git Commit 메세지용 Emoji
 |icon|cmd|설명|
 |-|-|-|
-|:pick:|:pick|추가|
-|:hammer_and_wrench:|:hammer_and_wrench|수정|
+|:pick:|:pick|신규 내용 추가|
+|:hammer_and_wrench:|:hammer_and_wrench|기존 내용 수정|
+|:x:|:x|삭제|
 
 ## :link: 바로가기
 - [개념정리](https://github.com/HK-An/today_i_learned#school-computer_science)
