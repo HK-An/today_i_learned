@@ -2,8 +2,8 @@
 
 ## 목차
 1. [기본 데이터 타입](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md#기본-데이터-타입)
-2. [`제네릭`타입](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md#제너릭-타입)
-3. [`String`, `StringBuffer`, `StringBuilder`의 차이](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md#string,-stringBuffer,-stringBuilder의-차이)
+2. [`제네릭`타입](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md#제네릭타입)
+3. [`String`, `StringBuffer`, `StringBuilder`의 차이](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md#string-stringbuffer-stringbuilder의-차이)
 4. [`List`에 관하여](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md#list에-관하여)
 5. [`Set`에 관하여](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md#set에-관하여)
 6. [`Map`에 관하여](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md#map에-관하여)
