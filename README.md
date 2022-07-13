@@ -48,7 +48,7 @@
 - Set
 - Map
 
-### 디자인
+### 디자인 [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md)
 - [DTO, Entity, VO의 차이점](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/design/differences_between_dto_entitity_vo.md)
 - [추상클래스 vs 인터페이스](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/concept/interface_vs_abstract.md)
 ### 기본API
