@@ -118,4 +118,6 @@
 - [멀쩡한 사각형](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/grid.md)
 - [기능개발](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/release.md)
 - [타겟 넘버](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/target_number.md)
+- [더 맵게](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/scoville.md)
+- [소수 찾기](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/prime_number.md)
 </details>
