@@ -1,6 +1,12 @@
 # :green_book: Today_What_I_Learned
 공부한 내용을 정리해놓은 것들.
 
+## Git Commit 메세지용 Emoji
+|icon|cmd|설명|
+|-|-|-|
+|:pick:|:pick|추가|
+|:hammer_and_wrench:|:hammer_and_wrench|수정|
+
 ## :link: 바로가기
 - [개념정리](https://github.com/HK-An/today_i_learned#school-computer_science)
 - [Java관련](https://github.com/HK-An/today_i_learned#space_invader-java)
