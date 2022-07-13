@@ -40,7 +40,7 @@
 - 동기화 메소드
 - 직렬화와 SerialVersionUID
 
-### 자바의 데이터 타입 및 기타 타입들
+### 자바의 데이터 타입 및 기타 타입들 [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md)
 - 기본 데이터 타입
 - 제너릭 타입
 - String, StringBuffer, StringBuilder의 차이
@@ -48,7 +48,7 @@
 - Set
 - Map
 
-### 디자인 [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/02_type.md)
+### 디자인
 - [DTO, Entity, VO의 차이점](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/design/differences_between_dto_entitity_vo.md)
 - [추상클래스 vs 인터페이스](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/concept/interface_vs_abstract.md)
 ### 기본API
