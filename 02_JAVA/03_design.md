@@ -2,10 +2,10 @@
 
 ## 목차
 1. [MVC 패턴에서의 `DTO`, `VO`, `Entity`](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/03_design.md#MVC-패턴에서의-DTO-VO-Entity)
-    1. [DTO]()
-    2. [VO]()
-    3. [Entity]()
-    4. [Entity와 DTO를 분리하는 이유]()
+    1. [DTO](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/03_design.md#dtodata-transfer-object)
+    2. [VO](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/03_design.md#vovalue-object)
+    3. [Entity](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/03_design.md#entity)
+    4. [Entity와 DTO를 분리하는 이유](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/03_design.md#Entity와-DTO를-분리하는-이유)
 
 
 
