@@ -1,5 +1,5 @@
 [문제 페이지로 이동](https://programmers.co.kr/learn/courses/30/lessons/68935)   
-[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers-lv1-reverse_ternary/src/main/java/kr/hk/Solution.java)
+[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers/src/main/java/kr/hk/lv1/ReversingTernary.java)
 ###### 해결한 날짜 : 2022년 6월 23일
 # 문제설명
 자연수 n이 매개변수로 주어집니다. n을 3진법 상에서 앞뒤로 뒤집은 후, 이를 다시 10진법으로 표현한 수를 return 하도록 solution 함수를 완성해주세요.

@@ -1,5 +1,5 @@
 [문제 페이지로 이동](https://programmers.co.kr/learn/courses/30/lessons/77884)   
-[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers-lv1-divisors/src/main/java/kr/hk/Solution.java)
+[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers/src/main/java/kr/hk/lv1/Divisors.java)
 ###### 해결한 날짜 : 2022년 6월 23일
 # 문제설명
 두 정수 left와 right가 매개변수로 주어집니다. left부터 right까지의 모든 수들 중에서, 약수의 개수가 짝수인 수는 더하고, 약수의 개수가 홀수인 수는 뺀 수를 return 하도록 solution 함수를 완성해주세요.
