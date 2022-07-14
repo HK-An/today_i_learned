@@ -150,4 +150,5 @@
 - [타겟 넘버](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/target_number.md)
 - [더 맵게](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/scoville.md)
 - [소수 찾기](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/prime_number.md)
+- [전화번호 목록](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/phone_book.md)
 </details>
