@@ -1,5 +1,5 @@
 [문제 페이지로 이동](https://programmers.co.kr/learn/courses/30/lessons/42840)   
-[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers-lv1-trial_exam/src/main/java/kr/hk/Solution.java)
+[나의풀이](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/programmers/src/main/java/kr/hk/lv1/TrialExam.java)
 ###### 해결한 날짜 : 2022년 6월 22일
 # 문제설명
 수포자는 수학을 포기한 사람의 준말입니다. 수포자 삼인방은 모의고사에 수학 문제를 전부 찍으려 합니다. 수포자는 1번 문제부터 마지막 문제까지 다음과 같이 찍습니다.
