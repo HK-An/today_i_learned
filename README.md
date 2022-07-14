@@ -141,6 +141,7 @@
 <details>
   <summary>Lv2</summary>
 
+  **LV2 진행률: 13.15%(10/76)**
 - [문자열압축](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/practice/programmers/lv2/string_compression.md)
 - [124 나라의 숫자](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/weird_number.md)
 - [2 x n 타일링](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/tile.md)
