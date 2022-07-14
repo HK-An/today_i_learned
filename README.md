@@ -58,6 +58,13 @@
 ### 디자인
 - [DTO, Entity, VO의 차이점](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/design/differences_between_dto_entitity_vo.md)
 - [추상클래스 vs 인터페이스](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/concept/interface_vs_abstract.md)
+### 디자인 [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/03_design.md)
+- MVC 패턴에서의 DTO, VO, Entity
+    - DTO
+    - VO
+    - Entity
+    - Entity와 DTO를 분리하는 이유
+
 ### 기본API
 - [java.util.*](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/api/java.util.all.md)
 ### 기타
