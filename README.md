@@ -141,12 +141,13 @@
 - [행렬의 덧셈](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv1/sum_of_arrays.md)
 - [x만큼 간격이 있는 n개의 숫자](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv1/gap_numbers.md)
 - [직사각형 별찍기](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv1/stars.md)
+- [완주하지 못한 선수](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv1/retired_participant.md)
 </details>
 
 <details>
   <summary>Lv2</summary>
 
-  **LV2 진행률: 13.15%(10/76)**
+  **LV2 진행률: 14.47%(11/76)**
 - [문자열압축](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/practice/programmers/lv2/string_compression.md)
 - [124 나라의 숫자](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/weird_number.md)
 - [2 x n 타일링](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/tile.md)
@@ -157,4 +158,5 @@
 - [더 맵게](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/scoville.md)
 - [소수 찾기](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/prime_number.md)
 - [전화번호 목록](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/phone_book.md)
+- [짝지어 제거하기](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/pair.md)
 </details>
