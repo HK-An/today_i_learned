@@ -1,18 +1,18 @@
 # 자료구조
 ## 목차
-1. [Stack]()
-    1. [스택의 특징]()
-    2. [스택의 사용 예]()
-    3. [java에서]()
-2. [Queue]()
-  1. [큐의 특징]()
-  2. [큐의 사용 예]()
-  3. [java에서]()
+1. [Stack](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#1-stack)
+    1. [스택의 특징](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#%ED%8A%B9%EC%A7%95)
+    2. [스택의 사용 예](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#%EC%82%AC%EC%9A%A9%EC%98%88)
+    3. [java에서](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#java%EC%97%90%EC%84%9C)
+2. [Queue](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#2-queue)
+    1. [큐의 특징](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#%ED%8A%B9%EC%A7%95-1)
+    2. [큐의 사용 예](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#%EC%82%AC%EC%9A%A9%EC%98%88-1)
+    3. [java에서](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#java%EC%97%90%EC%84%9C-1)
 
 <hr />
 
 ### 1. Stack
-<img src="https://github.com/HK-An/today_i_learned/tree/main/00_IMGS/02_COMPUTER_SCIENCE/stack.bmp">
+<img src="https://github.com/HK-An/today_i_learned/tree/main/00_IMGS/02_COMPUTER_SCIENCE/stack.png">
 
 > 마지막에 들어간 데이터가 가장 처음 나오는 자료구조 (LIFO; Last In First Out)
 #### 특징
@@ -47,7 +47,7 @@ public class Example{
 ```
 
 ### 2. Queue
-<img src="https://github.com/HK-An/today_i_learned/tree/main/00_IMGS/02_COMPUTER_SCIENCE/queue.bmp">
+<img src="https://github.com/HK-An/today_i_learned/tree/main/00_IMGS/02_COMPUTER_SCIENCE/queue.png">
 
 > 가장 먼저 들어간 데이터가 먼저 나오는 자료구조 (FIFO; First In First Out)
 #### 특징
@@ -74,7 +74,7 @@ public class Example{
 
     queue.peek(); // 1을 출력한다. (제거하지는 않는다.)
     queue.poll(); // 2(front 값)를 반환하고 제거함. queue가 비어있으면 null 반환
-    queue.remove(); // 3을(front) 제거
+    queue.remove(); // 3을(front) 반환하고 제거
     queue.clear(); // 초기화
   }
 }
