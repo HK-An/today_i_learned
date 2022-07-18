@@ -12,7 +12,7 @@
 <hr />
 
 ### 1. Stack
-<img src="https://github.com/HK-An/today_i_learned/tree/main/00_IMGS/02_COMPUTER_SCIENCE/stack.png">
+<img src="https://github.com/HK-An/today_i_learned/tree/main/00_IMGS/01_COMPUTER_SCIENCE/stack.png">
 
 > 마지막에 들어간 데이터가 가장 처음 나오는 자료구조 (LIFO; Last In First Out)
 #### 특징
@@ -47,7 +47,7 @@ public class Example{
 ```
 
 ### 2. Queue
-<img src="https://github.com/HK-An/today_i_learned/tree/main/00_IMGS/02_COMPUTER_SCIENCE/queue.png">
+<img src="https://github.com/HK-An/today_i_learned/tree/main/00_IMGS/01_COMPUTER_SCIENCE/queue.png">
 
 > 가장 먼저 들어간 데이터가 먼저 나오는 자료구조 (FIFO; First In First Out)
 #### 특징
