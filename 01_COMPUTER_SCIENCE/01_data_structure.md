@@ -15,22 +15,28 @@
 
 <hr />
 
-### 1. Stack
+<img src="https://github.com/HK-An/today_i_learned/blob/main/00_IMGS/01_COMPUTER_SCIENCE/time_complexity.png">
+
+## 1. Stack
 <img src="https://github.com/HK-An/today_i_learned/blob/main/00_IMGS/01_COMPUTER_SCIENCE/stack.png">
 
 > 마지막에 들어간 데이터가 가장 처음 나오는 자료구조 (LIFO; Last In First Out)
-#### 특징
+### 특징
 1. 마지막에 들어간 자료가 가장 먼저 나온다. (후입선출, LIFO)
 2. 자료의 최상위(top)에서만 접근할 수 있다.
 3. 비어있는 스택에서 자료를 꺼내려고 하면 `Stack Underflow`, 스택이 넘칠 때는 `Stack Overflow`가 발생한다.
+4. 속도
+    - 삽입: O(1)
+    - 삭제: O(1)
+    - 탐색: O(n)
 
-#### 사용예
+### 사용예
 1. 재귀적 알고리즘
 2. 후위 표기법 계산
 3. 그래프의 [깊이 우선 탐색(DFS)](https://github.com/HK-An/today_i_learned/blob/main/04_ALGORITHM/DFS/definition.md)
 4. 인터럽트처리, 수식의 계산, 서브루틴의 복귀 번지 저장 등
 
-#### Java에서
+### Java에서
 ```java
 import java.util.Stack;
 
@@ -50,21 +56,25 @@ public class Example{
 }
 ```
 
-### 2. Queue
+## 2. Queue
 <img src="https://github.com/HK-An/today_i_learned/blob/main/00_IMGS/01_COMPUTER_SCIENCE/queue.png">
 
 > 가장 먼저 들어간 데이터가 먼저 나오는 자료구조 (FIFO; First In First Out)
-#### 특징
+### 특징
 1. 데이터가 입력된 순서대로 처리가 이루어진다.  
 2. 삭제연산이 이루어지는곳을 Front, 삽입연산이 이루어지는 곳을 Rear라고 한다.
 3. 삭제연산을 디큐(deQueue), 삽입연산을 인큐(enQueue)라고 한다.
 
-#### 사용예
+### 사용예
 1. 프로세스 관리
 2. 너비우선탐색(BFS)
 3. 캐시(Cache)
+4. 속도
+    - 삽입: O(1)
+    - 삭제: O(1)
+    - 탐색: O(n)
 
-#### Java에서
+### Java에서
 ```java
 import java.util.Queue;
 import java.util.LinkedList;
@@ -99,6 +109,7 @@ public class Example{
 5. 속도
     - 삽입: O(logn)
     - 삭제: O(logn)
+    - 탐색: O(logn)
 6. 배열을 사용하여 주로 구현한다. (편의를 위해 0번지는 비어있음)
 7. 중복을 허용한다.
 
