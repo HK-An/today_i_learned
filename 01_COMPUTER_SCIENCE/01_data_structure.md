@@ -8,6 +8,10 @@
     1. [큐의 특징](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#%ED%8A%B9%EC%A7%95-1)
     2. [큐의 사용 예](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#%EC%82%AC%EC%9A%A9%EC%98%88-1)
     3. [java에서](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#java%EC%97%90%EC%84%9C-1)
+3. [Heap](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#3-heap)
+    1. [힙의 특징](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#특징-2)
+    2. [힙의 사용 예](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#%EC%82%AC%EC%9A%A9%EC%98%88-2)
+    3. [java에서](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md#java%EC%97%90%EC%84%9C-2)
 
 <hr />
 
@@ -78,4 +82,61 @@ public class Example{
     queue.clear(); // 초기화
   }
 }
+```
+
+## 3. Heap
+<img src="https://github.com/HK-An/today_i_learned/blob/main/00_IMGS/01_COMPUTER_SCIENCE/heap.png">
+
+> 최소값 및 최대값을 빠르게 찾아내기 위한 알고리즘.
+
+### 특징
+1. 완전이진트리를 기본 형태로 한다.
+2. 특정 노드에 대한 서브트리(부모-자식)들도 조건을 만족한다.
+3. 형제노드간에는 조건을 만족하지 않는다. (추가할때 마지막 노드에 추가하고 이에 따라 정렬하므로 벌어지는 현상, 반정렬상태)
+4. Max-heap과 Min-heap의 두가지가 있다.
+    - **Max-Heap**: 루트노드의 값이 자식노드들의 값보다 크거나 같은 트리.
+    - **Min-Heap**: 루트노드의 값이 자식노드들의 값보다 작거나 같은 트리.
+5. 속도
+    - 삽입: O(logn)
+    - 삭제: O(logn)
+6. 배열을 사용하여 주로 구현한다. (편의를 위해 0번지는 비어있음)
+7. 중복을 허용한다.
+
+### 사용예
+1. 네트워크 트래픽 제어
+2. OS상의 작업 스케쥴링
+3. 수치해석
+4. 우선순위큐
+
+### Java에서
+```java
+  public void minHeap() {
+        PriorityQueue<Integer> queue = new PriorityQueue<>();
+        queue.add(4);
+        queue.add(0);
+        queue.add(9);
+        queue.add(2);
+        queue.add(6);
+        queue.add(1);
+
+        for(int num : queue) {
+            System.out.println(num); // 0, 2, 1, 4, 7, 9
+        }
+
+    }
+
+    public void maxHeap() {
+          PriorityQueue<Integer> queue = new PriorityQueue<>((o1, o2) -> Integer.compare(o2, o1));
+          queue.add(4);
+          queue.add(0);
+          queue.add(9);
+          queue.add(2);
+          queue.add(6);
+          queue.add(1);
+
+          for(int num : queue) {
+              System.out.println(num); // 9, 6, 4, 0, 2, 1
+          }
+
+      }
 ```

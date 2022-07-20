@@ -17,9 +17,10 @@
 - [코딩문제풀이](https://github.com/HK-An/today_i_learned#bangbang-코딩문제풀이)
 ***
 # :school: COMPUTER_SCIENCE
-### 자료구조 [보러가기](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md)
+### 자료구조 [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/01_data_structure.md)
 - stack
 - queue
+- heap (priority queue)
 ### 그외
 - [리팩토링](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/refactoring/refactoring_definition.md)
 - [OOP](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/oop/oop_definition.md)
