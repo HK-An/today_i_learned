@@ -151,7 +151,6 @@
 <details>
   <summary>Lv2</summary>
 
-  **LV2 진행률: 14.47%(11/76)**
 - [문자열압축](https://github.com/HK-An/today_i_learned/blob/main/ALGORITHM/practice/programmers/lv2/string_compression.md)
 - [124 나라의 숫자](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/weird_number.md)
 - [2 x n 타일링](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/tile.md)
@@ -163,4 +162,7 @@
 - [소수 찾기](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/prime_number.md)
 - [전화번호 목록](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/phone_book.md)
 - [짝지어 제거하기](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/pair.md)
+- [가장 큰 수](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/biggest_number.md)
+- [프린터](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/printer.md)
+
 </details>
