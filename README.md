@@ -78,7 +78,8 @@
 ***
 # :floppy_disk: RDB
 ***
-# :+1: ALGORITHM
+# :+1: ALGORITHM [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/04_ALGORITHM)
+- BFS(너비우선탐색)
 - [DFS(깊이우선탐색)](https://github.com/HK-An/today_i_learned/blob/main/04_ALGORITHM/DFS/definition.md)
 - [탐욕알고리즘](https://github.com/HK-An/today_i_learned/blob/main/04_ALGORITHM/greedy/definition.md)
 - 수학관련
