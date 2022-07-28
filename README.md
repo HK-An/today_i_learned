@@ -170,3 +170,146 @@
 - [변장](https://github.com/HK-An/today_i_learned/blob/main/05_CODING/programmers/lv2/disguise.md)
 
 </details>
+
+#### 백준
+<details>
+  <summary>1xxx</summary>
+
+
+- [1000번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1000.java)
+- [1001번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1001.java)
+- [1008번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1008.java)
+- [1110번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1110.java)
+- [1152번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1152.java)
+- [1157번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1157.java)
+- [1330번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1330.java)
+- [1546번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1546.java)
+- [1920번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1920.java)
+- [1926번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p1xxx/P1926.java)
+</details>
+
+<details>
+  <summary>2xxx</summary>
+
+  - [2420번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2420.java)
+  - [2438번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2438.java)
+  - [2439번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2439.java)
+  - [2475번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2475.java)
+  - [2480번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2480.java)
+  - [2525번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2525.java)
+  - [2557번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2557.java)
+  - [2559번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2559.java)
+  - [2562번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2562.java)
+  - [2577번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2577.java)
+  - [2588번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2588.java)
+  - [2606번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2606.java)
+  - [2675번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2675.java)
+  - [2738번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2738.java)
+  - [2739번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2739.java)
+  - [2741번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2741.java)
+  - [2742번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2742.java)
+  - [2753번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2753.java)
+  - [2884번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2884.java)
+  - [2908번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2908.java)
+  - [2920번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2920.java)
+
+</details>
+
+<details>
+  <summary>3xxx</summary>
+
+  - [3052번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p3xxx/P3052.java)
+
+</details>
+
+<details>
+  <summary>5xxx</summary>
+
+  - [5597번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p5xxx/P5597.java)
+
+</details>
+
+<details>
+  <summary>7xxx</summary>
+
+  - [7287번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p7xxx/P7287.java)
+
+</details>
+
+<details>
+  <summary>8xxx</summary>
+
+  - [8393번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p8xxx/P8393.java)
+  - [8958번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p8xxx/P8958.java)
+
+</details>
+
+<details>
+  <summary>9xxx</summary>
+
+  - [9498번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p9xxx/P9498.java)
+
+</details>
+
+<details>
+  <summary>10xxx</summary>
+
+  - [10171번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10171.java)
+  - [10172번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10172.java)
+  - [10430번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10430.java)
+  - [10699번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10699.java)
+  - [10718번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10718.java)
+  - [10807번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10807.java)
+  - [10809번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10809.java)
+  - [10818번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10818.java)
+  - [10869번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10869.java)
+  - [10871번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10871.java)
+  - [10872번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10872.java)
+  - [10926번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10926.java)
+  - [10950번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10950.java)
+  - [10951번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10951.java)
+  - [10952번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10952.java)
+  - [10998번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10998.java)
+
+</details>
+
+<details>
+  <summary>11xxx</summary>
+
+  - [11021번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p11xxx/P11021.java)
+  - [11022번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p11xxx/P11022.java)
+  - [11047번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p11xxx/P11047.java)
+  - [11382번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p11xxx/P11382.java)
+  - [11654번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p11xxx/P11654.java)
+  - [11720번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p11xxx/P11720.java)
+
+</details>
+
+<details>
+  <summary>14xxx</summary>
+
+  - [14681번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p14xxx/P14681.java)
+
+</details>
+
+<details>
+  <summary>15xxx</summary>
+
+  - [15552번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p15xxx/P15552.java)
+  - [15649번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p15xxx/P15649.java)
+
+</details>
+
+<details>
+  <summary>18xxx</summary>
+
+  - [18108번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p18xxx/P18108.java)
+
+</details>
+
+<details>
+  <summary>25xxx</summary>
+
+  - [25083번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p25xxx/P25083.java)
+
+</details>
