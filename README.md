@@ -172,6 +172,8 @@
 </details>
 
 #### 백준
+지금까지 푼 문제 : **67**문제
+
 <details>
   <summary>1xxx</summary>
 
@@ -193,6 +195,7 @@
   <summary>2xxx</summary>
 
   - [2231번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2231.java)
+  - [2292번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2292.java)
   - [2420번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2420.java)
   - [2438번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2438.java)
   - [2439번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2439.java)
@@ -211,6 +214,7 @@
   - [2741번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2741.java)
   - [2742번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2742.java)
   - [2753번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2753.java)
+  - [2798번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2798.java)
   - [2884번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2884.java)
   - [2908번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2908.java)
   - [2920번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p2xxx/P2920.java)
@@ -265,6 +269,7 @@
 
   - [10171번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10171.java)
   - [10172번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10172.java)
+  - [10250번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10250.java)
   - [10430번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10430.java)
   - [10699번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10699.java)
   - [10718번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10718.java)
