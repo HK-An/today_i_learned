@@ -82,6 +82,11 @@
 - BFS(너비우선탐색)
 - DFS(깊이우선탐색)
 - 백트래킹
+- 시뮬레이션
+- 투포인터
+- 이진탐색
+- MST
+- 다익스트라
 - [탐욕알고리즘](https://github.com/HK-An/today_i_learned/blob/main/04_ALGORITHM/greedy/definition.md)
 - 수학관련
     - [유클리드 호제법을 통한 최대공약수, 최소공배수 구하기](https://github.com/HK-An/today_i_learned/blob/main/04_ALGORITHM/math/euclidean_algorithm.md)
