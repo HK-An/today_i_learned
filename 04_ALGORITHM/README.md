@@ -2,7 +2,12 @@
 ## 목차
 1. [BFS](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#1-bfs)
 2. [DFS](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#2-dfs)
-3. [백트래킹](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#2-백트래킹)
+3. [백트래킹](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#3-백트래킹)
+4. [시뮬레이션](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#4-시뮬레이션)
+5. [투포인터](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#5-투포인터)
+6. [이진탐색](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#6-이진탐색)
+7. [MST](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#7-MST;MinimumSpanningTree)
+8. [다익스트라](https://github.com/HK-An/today_i_learned/tree/main/04_ALGORITHM#8-다익스트라)
 
 <hr />
 
@@ -76,6 +81,9 @@ E: Edge의 수
 - 배열안에서 이동하면서 탐험하는 문제
 별도의 알고리믖 없이 풀 수있으나, 구현력이 중요함. 매 시험마다 1문제 이상 무조건 출제
 
+[처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
+<hr />
+
 ## 5. 투포인터
 ### 개요
 두개의 포인터(커서)가 움직이면서 계산. 처음부터 생각하기 어려운 방법이니 처음에는 쉬운 방법으로 우선 접근하여 시간복잡도나 변수가 범위안에 들지 않을때 사용하기.
@@ -84,12 +92,18 @@ E: Edge의 수
 > - O(N^2)각 원소마다 모든 값을 순회해야할때
 > - O(N): 연속하다는 특성을 가지고 처리했을때
 
+[처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
+<hr />
+
 ## 6.이진탐색
 ### 개요
 어떤 값을 찾을 때 정렬의 특징을 이용해 빨리 찾는다. 가지고 있는 원소들의 절반을 나누어 찾고자 하는 값보다 큰지 작은지 판단하여 다음 탐색한다. 처음부터 생각하기 어려운 방법이니 처음에는 쉬운 방법으로 우선 접근하여 시간복잡도나 변수가 범위안에 들지 않을때 사용하기.
 
 ### 시간복잡도
 > O(logN): 어떠한 값을 찾을 때
+
+[처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
+<hr />
 
 ## 7. MST;Minimum Spanning Tree
 ### 개요
@@ -105,6 +119,9 @@ MST를 푸는 방법으로는 다음의 두가지가 있다.
 
 ### 시간복잡도
 > O(ElogE)
+
+[처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
+<hr />
 
 ## 8. 다익스트라
 ### 개요
