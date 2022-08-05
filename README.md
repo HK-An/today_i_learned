@@ -179,7 +179,7 @@
 <hr />
 
 #### 백준
-지금까지 푼 문제 : **96**문제  
+지금까지 푼 문제 : **101**문제  
 conner@[solved.ac](solved.ac)
 
 <details>
@@ -299,6 +299,7 @@ conner@[solved.ac](solved.ac)
   - [10814번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10814.java)
   - [10818번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10818.java)
   - [10826번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10826.java)
+  - [10866번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10866.java)
   - [10869번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10869.java)
   - [10870번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10870.java)
   - [10871번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10871.java)
