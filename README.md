@@ -338,6 +338,7 @@ conner@[solved.ac](solved.ac)
 <details>
   <summary>9xxx</summary>
 
+  - [9012번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p9xxx/P9012.java)
   - [9086번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p9xxx/P9086.java)
   - [9498번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p9xxx/P9498.java)
 
@@ -356,6 +357,7 @@ conner@[solved.ac](solved.ac)
   - [10809번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10809.java)
   - [10814번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10814.java)
   - [10818번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10818.java)
+  - [10845번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10845.java)
   - [10826번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10826.java)
   - [10866번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10866.java)
   - [10869번](https://github.com/HK-An/coding_practice/blob/main/CodingPractice/baekjoon/src/main/java/kr/hk/p10xxx/P10869.java)
