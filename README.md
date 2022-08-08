@@ -22,63 +22,47 @@
   <summary>접어두기</summary>
 
 - 운영체제란
-  - 실행파일 실행 과정
-  - 프로그램 실행 과정
 - 캐시
 - 캐시라인
 - 메모리 구조
-  - 전역변수와 정적변수의 차이
-  - Heap과 Stack의 비교
-  - 가시성과 원자성
-  - 유효주소, 주소지정방식
-  - 메모리할당, 알고리즘
 - 프로세스와 스레드
-  - 멀티프로세스와 멀티스레드
-  - 스레드와 프로세스 콘텍스트 스위치 차이 이유
-  - 프로세스 스케줄러에 대해
-  - CPU 스케줄러
-  - 스레싱
-  - IPC
-  - Race Condition
 - 가상 메모리
-  - 메모리 단편화
-  - 페이징기법
-  - 세그먼테이션 기법
-  - 메모리풀
-  - 페이지 교체 알고리즘
-  - MMU란
-  - TLB란
 - 인터럽트란
-  - System Call
-  - 프로세스 제어 명령
-  - fork(), vfork() 차이
-  - 시스템콜과 서브루틴 차이
 - 블록킹, 논블록킹
 - 동기, 비동기
 - 동기 IO 처리과정 : 프로세스 A가 디스크에서 어떤 데이터 읽어올때 상황
 - 입출력 처리방식
-  - DMA
-  - Cycle Stealing
 - 데드락
-  - 발생조건
-  - 회피기법
-- PCB(Process Control Block) 이란
-- Spin Lock 이란
+- PCB(Process Control Block)
+- Spin Lock
 
 </details>
 
 ### 자료구조 [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/02_data_structure.md)
+<details>
+  <summary>접어두기</summary>
+
 - stack
 - queue
 - heap (priority queue)
+- binary search tree
+- self balanced tree
+- hash
+- dequeue
+
+</details>
+
 ### WEB [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_web.md.md)
+<details>
+  <summary>접어두기</summary>
+
 - 브라우저에 url을 치면 일어나는 일
 - 쿠키와 세션
-  - 쿠키
-  - 세션
 - REST API, RESTful이란
 - HTTP 응답코드
 - HTTPS
+</details>
+
 ### 그외
 - [리팩토링](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/refactoring/refactoring_definition.md)
 - [OOP](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/oop/oop_definition.md)
@@ -86,7 +70,6 @@
 - [MVC2](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/mvc/definition.md)
 - [오버로딩 vs 오버라이딩](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/overrloading_vs_overriding.md)
 - [메모리의구조(코드, 데이터, 힙, 스택 영역)](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/memory/structure.md)
-- [해시(자료구조)](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/hash/definition.md)
 - [IOC vs DI](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/DI_vs_IOC.md)
 ***
 # :space_invader: JAVA
