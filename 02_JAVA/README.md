@@ -5,11 +5,11 @@
 2. [객체지향](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향)
   1. [객체](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체)
   5. [클래스](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#클래스)
-  1. [객체지향 프로그래밍의 4가지 특징](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향-프로그래밍의-4가지-특징)
-    1. [추상화](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#추상화)
-    1. [캡슐화](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#캡슐화)
-    1. [상속성](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#상속성)
-    1. [다형성](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#다형성)
+  1. [객체지향 프로그래밍의 4가지 특징](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향-프로그래밍의-4가지-특징)  
+      1. [추상화](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#추상화)  
+      1. [캡슐화](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#캡슐화)
+      1. [상속성](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#상속성)
+      1. [다형성](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#다형성)
   1. [객체지향 설계 5대 원칙](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향-설계-5대-원칙)
   13. [인터페이스와 추상클래스](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#인터페이스와-추상클래스)
   1. [객체지향, 함수형의 차이](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향-함수형의-차이)
@@ -78,7 +78,7 @@
 현실 세계의 사물같은 객체를 만들고 객체에서 필요한 특징을 뽑아서 프로그래밍을 수행하는 것.
 
 ### 객체
-물리적으로 존재하거나 추상적으로 존재하는 것 , 속성을 가지고 있고 다른것과 구별할 수 있는 것을 의미한다.
+물리적으로 존재하거나 추상적으로 존재하는 것, 속성을 가지고 있고 다른것과 구별할 수 있는 것을 의미한다.
 
 ### 클래스
 자바의 클래스는 설계도와 같다.클래스로부터 새로운 객체를 생성하는 것을 인스턴스화라고 하고, 클래스로부터 생성된 새로운 객체를 인스턴스라고 한다.
