@@ -126,6 +126,8 @@ abstract 지시자로 정의되며 상속을 강제하여 기능을 확장하기
 #### Overriding
 객체지향 프로그래밍에서 자식 클래스가 자신의 부모 클래스들 중 하나에 이미 정의된 메소드를 재정의하는 기술이다.
 
+> 오버로딩은 다형성에 입각하여 같은 이름을 가진 메소드를 인수 등을 다르게 하여 재정의 하는 방법이고, 오버라이딩은 부모 클래스에 이미 정의된 메소드를 부모 클래스를 상속받은 자식 클래스가 재정의하는 기술입니다.
+
 
 [처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
 <hr />
@@ -206,8 +208,15 @@ GC(Garbage Collector)라고 불리는 데몬 스레드에 의하여 실행되며
 
 ## Servlet
 ### 개념
+자바 서블릿은 자바를 사용하여 웹페이지를 동적으로 생성하는 서버측 프로그램 혹은 그 사양을 말하며, 흔히 "서블릿"이라 불린다. 자바 서블릿은 웹 서버의 성능을 향상하기 위해 사용되는 자바 클래스의 일종이다. 서블릿은 JSP와 비슷한 점이 있지만, JSP가 HTML 문서 안에 Java 코드를 포함하고 있는 반면, 서블릿은 자바 코드 안에 HTML을 포함하고 있다는 차이점이 있다.
 
 ### 동작순서
+<img src="https://github.com/HK-An/today_i_learned/blob/main/00_IMGS/02_JAVA/servlet.png">
+1. 사용자(클라이언트)가 URL을 입력하면 HTTP Request가 Servlet Container로 전송합니다.
+2. 요청을 전송받은 Servlet Container는 HttpServletRequest, HttpServletResponse 객체를 생성합니다.
+3. web.xml을 기반으로 사용자가 요청한 URL이 어느 서블릿에 대한 요청인지 찾습니다.해당 서블릿에서 service메소드를 호출한 후 클리아언트의 GET, POST여부에 따라 doGet() 또는 doPost()를 호출합니다.
+4. doGet() or doPost() 메소드는 동적 페이지를 생성한 후 HttpServletResponse객체에 응답을 보냅니다.
+5. 응답이 끝나면 HttpServletRequest, HttpServletResponse 두 객체를 소멸시킵니다.
 
 ### 생명주기
 
