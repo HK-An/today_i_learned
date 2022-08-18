@@ -12,17 +12,17 @@
   1. [인덱스](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#인덱스)
     1. [클러스터드, 넌클러스터드 인덱스](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#클러스터드-넌클러스터드-인덱스)
     1. [클러스터](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#클러스터)
-    1. [시퀀스](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#시퀀스)
-    1. [뷰](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#뷰)
-    1. [트리거](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#트리거)
-    1. [무결성](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#무결성)
-      1. [무결성 보장방법](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#무결성-보장방법)
-      1. [정규화](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#정규화)
+  1. [시퀀스](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#시퀀스)
+  1. [뷰](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#뷰)
+  1. [트리거](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#트리거)
+  1. [무결성](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#무결성)
+    1. [무결성 보장방법](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#무결성-보장방법)
+  1. [정규화](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#정규화)
       1. [정규형 필요 조건](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#정규형-필요-조건)
       1. [함수적 종속성](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#함수적-종속성)
       1. [반정규화](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#반정규화)
-    1. [Anomaly](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#anomaly)
-    1. [SQL Injection](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#sql-injection)
+  1. [Anomaly](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#anomaly)
+  1. [SQL Injection](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#sql-injection)
 1. [파티셔닝](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#파티셔닝)
   1. [샤딩](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#샤딩)
   1. [리플리케이션](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#리플리케이션)
@@ -62,11 +62,41 @@
 
 ## Key
 ### 인덱스
+인덱스란 추가적인 쓰기 작업과 저장 공간을 활용하여 데이터베이스 테이블의 검색 속도를 향상시키기 위한 자료구조이다. 해시테이블이나 B+ 트리등의 자료구조를 사용한다.
+- **장점**  
+1. 테이블 조회 속도를 향상시킬 수 있다.
+2. 시스템의 부하를 줄일 수 있다.
+- **단점**
+1. 인덱스 관리를 위하여 추가적인 용량이 필요하다.
+2. 인덱스 관리를 위한 추가 작업이 필요하다.
+
+> 인덱스는 데이터베이스의 검색 속도를 향상시키기 위한 자료구조인데요. 주로 해시나 B+ 트리 등의 알고리즘을 사용합니다. 인덱스를 사용하는 것의 장점으로는 속도 향상과 시스템 부하 감소가 있고, 단점으로는 DB의 약 10% 정도의 인덱스를 위한 추가 용량이 필요하다는 것이 있습니다.
+
 #### 클러스터드, 넌클러스터드 인덱스
 #### 클러스터
 ### 시퀀스
+시퀀스는 오라클에서 유일한 값을 생성해주는 객체로써 기본키 값을 생성할때 주로 사용한다. 시퀀스는 테이블과는 독립적으로 저장되고 생성된다.
+
+> 시퀀스는 오라클에서 사용하는 유일한 값을 생성하여 주는 객체로써 주로 기본키 값을 생성할 때 사용합니다. 시퀀스는 테이블과는 독립적으로 따로 생성되어 저장되는 특징이 있습니다.
+
 ### 뷰
+뷰는 사용자에게 접근이 허용된 자료만을 제한적으로 보여주기 위해 하나 이상의 기본 테이블로부터 유도된, 이름을 가지는 가상 테이블이다. 실제로 존재하지는 않지만 실제 테이블처럼 사용된다.
+- **장점**  
+1. 논리적 데이터 독립성을 제공한다.
+2. 사용자의 데이터관리를 간단하게 해준다.
+3. 접근 제어를 통한 자동 보안이 제공된다.
+- **단점**
+1. 독립적인 인덱스를 가질 수 없다.
+2. 한번 정의되면 변경할 수 없다.
+3. 뷰로 구성된 내용에 대한 삽입, 삭제, 갱신, 연산에 제약이 따른다.
+
+> 뷰는 사용자에게 허용된 자료만을 제한적으로 보여주기 위해 만들어진 가상 테이블입니다. 실제로 존재하지는 않지만 마치 실제 테이블인것처럼 사용됩니다. 장점으로는 논리적 데이터 독립성을 제공하고, 사용자의 데이터관리를 간단하게 만들어주며, 접근제어를 통한 보안이 제공되지만, 단점으로는 독립적인 인덱스를 가질수 없다는 점과, 정의를 변경할 수 없다는점, 삽입이나 삭제 등에 제약이 따른다는 점이 있습니다.
+
 ### 트리거
+트리거(Trigger)는 특정 테이블에 INSERT, DELETE, UPDATE 같은 DML 문이 수행되었을 때, 데이터베이스에서 자동으로 동작하도록 작성된 프로그램입니다.
+
+> 트리거는 특정 테이블에 insert 등 DML 문이 수행될때 자동으로 동작하도록 작성된 프로그램입니다. 트리거의 종류는 크게 데이터의 변화가 생길때 실행되는 행트리거와 트리거에 의해 단 한번만 실행되는 문장 트리거가 있습니다.
+
 ### 무결성
 #### 무결성 보장방법
 ### 정규화
