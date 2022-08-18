@@ -238,7 +238,7 @@ GC(Garbage Collector)라고 불리는 데몬 스레드에 의하여 실행되며
 |default|클래스,필드,생성자,메소드|다른 패키지에 속한 클래스|
 |private|필드,생성자,메소드|모든 외부 클래스|
 
-사용이유
+OOP의 특징중에서 캡슐화라는 개념을 적용하기 위해서 사용한다. 캡슐화를 통하여 결합도를 낮추기 위해서 사용한다.
 
 ## 직렬화
 객체를 입력 및 출력하기 위해서는 byte 배열로 만드는 과정이 필요한데, 이 과정을 직렬화(Serialize)라고 한다. 반대로 직렬화 되어 있는 byte 코드를 원래의 객체의 형태로 만드는 것을 역직렬화(Deserialize)라고 한다.
@@ -251,12 +251,15 @@ SerialVersionUID를 지정하지 않으면 컴파일러가 임의로 계산한 �
 <hr />
 
 ## Wrapper Class
+primary 타입의 데이터를 reference 형으로 다루기 위해서 사용하는 클래스이다. 그래서 값을 비교하기 위해 == 연산자는 사용할 수 없고 equals()메소드를 사용하여 비교하여야 한다. 다른 특징으로는 Immutable 오브젝트이기 때문에 값을 변경할 경우 새로운 객체가 할당된다.
 ### String은 래퍼클래스인데 == 비교시 값 같게 나오는 이유
+String은 Reference 타입이지만 string pool이라는 영역에 string 객체를 저장해놓기 때문에 리터럴로 사용할 경우에는 intern()메소드를 호출하여 string pool의 내부에서 검색하여 == 으로 같은 값을 찾을 수 있다. 하지만 만약 new 를 사용하여 생성할 경우에는 heap 영역에 저장되어 equals로 비교하여야 한다.
+
 [처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
 <hr />
 
 ## 제너릭
-
+클래스의 내부에서 사용할 데이터의 타입을 정의하지 않고 사용할 때 클래스 타입을 받아오도록 하는 것이다. 데이터를 제너릭으로 사용할 때는 항상 레퍼런스 타입으로 가져와야한다.
 [처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
 <hr />
 
@@ -269,6 +272,18 @@ SerialVersionUID를 지정하지 않으면 컴파일러가 임의로 계산한 �
 <hr />
 
 ## 자바 버전
+1. JAVA8
+- 람다표현식을 사용한다.  
+함수형으로 표현할수 있게 해준것이다.
+- stream의 추가  
+병렬처리가 가능하다.
+- 인터페이스 내에 default 메소드 구현 가능
+- Optional  
+null이 될 수 있는 객체를 감싸는 래퍼 클래스이다.
+2. JAVA11
+- String, File 클래스 내에 메소드 추가
+- 람다에 var 표현 추가
+- 자바 표준 HttpClient 추가
 
 [처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
 <hr />
