@@ -1,10 +1,10 @@
 # Web 개념
 
 ## 목차
-1. [브라우저에서 URL치면 발생하는 일]()
-1. [쿠키와 세션]()
-  1. [쿠키]()
-  1. [세션]()
+1. [브라우저에서 URL치면 발생하는 일](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/07_web.md#%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90-url%EC%9D%84-%EC%B9%98%EB%A9%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%BC)
+1. [쿠키와 세션](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/07_web.md#%쿠키와-세션)
+  1. [쿠키](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/07_web.md#1-%EC%BF%A0%ED%82%A4)
+  1. [세션](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/07_web.md#2-세션)
   1. [쿠키와 세션의 차이]()
 1. [캐시]()
 1. [URI, URL, URN]()
