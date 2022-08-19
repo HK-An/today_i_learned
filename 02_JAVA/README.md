@@ -1,47 +1,47 @@
 # 기본 개념이 되는 내용들
 ## 목차
-1. [자바의 특징](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#자바의특징)
-  1. [동적로딩](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#동적로딩)
-2. [객체지향](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향)
-  1. [객체](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체)
-  5. [클래스](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#클래스)
-  1. [객체지향 프로그래밍의 4가지 특징](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향-프로그래밍의-4가지-특징)  
-      1. [추상화](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#추상화)  
-      1. [캡슐화](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#캡슐화)
-      1. [상속성](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#상속성)
-      1. [다형성](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#다형성)
-  1. [객체지향 설계 5대 원칙](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향-설계-5대-원칙)
-  13. [인터페이스와 추상클래스](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#인터페이스와-추상클래스)
-  1. [객체지향, 함수형의 차이](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#객체지향-함수형의-차이)
-  15. [Overloding과 Overriding](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#overloading과-overriding)
-2. [자바 실행 과정](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#자바-실행-과정)
-3. [JVM의 구조](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#jvm의-구조)
-  1. [클래스 로드 방법](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#클래스-로드-방법)
-  1. [클래스 로드 과정](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#클래스-로드-과정)
-1. [자바메모리구조](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#자바메모리구조)
-   1. [스레드별로 부여되는 영역](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#스레드별로-부여되는-영역)
-   1. [공통으로 사용하는 영역](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#공통으로-사용하는-영역)
-4. [가비지 컬렉션](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#가비지-컬렉션)
-  1. [가비지 컬렉션 일어나는 과정](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#가비지-컬렉션이-일어나는-과정)
-  1. [GC 모니터링](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#GC-모니터링)
-1. [Servlet](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#servlet)
-  1. [개념](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#개념)
-  1. [동작순서](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#동작순서)
-  1. [생명주기](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#생명주기)
-1. [변수](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#변수)
-  1. [정적변수](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#정적변수)
-  2. [전역변수](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#전역변수)
-12. [접근제어자](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#%접근제어자)
-18. [직렬화](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#직렬화)
-  1. [SerialVersionUID](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#serialversionuid)
-1. [Wrapper Class](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#wrapper-class)
-  1. [String은 래퍼클래스인데 == 비교시 값 같게 나오는 이유](
-1. [제네릭](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#제너릭)
-11. [Final](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#final)
-1. [자바 버전](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#자바버전)
-10. [Static](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#static)
-14. [Annotation](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#annotation)
-17. [동기화 메소드](https://github.com/HK-An/today_i_learned/blob/main/02_JAVA/01_concept.md#동기화-메소드)
+1. [자바의 특징](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#자바의특징)
+  1. [동적로딩](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#동적로딩)
+2. [객체지향](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#객체지향)
+  1. [객체](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#객체)
+  5. [클래스](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#클래스)
+  1. [객체지향 프로그래밍의 4가지 특징](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#객체지향-프로그래밍의-4가지-특징)  
+      1. [추상화](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#추상화)  
+      1. [캡슐화](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#캡슐화)
+      1. [상속성](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#상속성)
+      1. [다형성](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#다형성)
+  1. [객체지향 설계 5대 원칙](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#객체지향-설계-5대-원칙)
+  13. [인터페이스와 추상클래스](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#인터페이스와-추상클래스)
+  1. [객체지향, 함수형의 차이](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#객체지향-함수형의-차이)
+  15. [Overloding과 Overriding](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#overloading과-overriding)
+2. [자바 실행 과정](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#자바-실행-과정)
+3. [JVM의 구조](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#jvm의-구조)
+  1. [클래스 로드 방법](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#클래스-로드-방법)
+  1. [클래스 로드 과정](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#클래스-로드-과정)
+1. [자바메모리구조](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#자바메모리구조)
+   1. [스레드별로 부여되는 영역](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#스레드별로-부여되는-영역)
+   1. [공통으로 사용하는 영역](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#공통으로-사용하는-영역)
+4. [가비지 컬렉션](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#가비지-컬렉션)
+  1. [가비지 컬렉션 일어나는 과정](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#가비지-컬렉션이-일어나는-과정)
+  1. [GC 모니터링](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#GC-모니터링)
+1. [Servlet](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#servlet)
+  1. [개념](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#개념)
+  1. [동작순서](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#동작순서)
+  1. [생명주기](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#생명주기)
+1. [변수](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#변수)
+  1. [정적변수](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#정적변수)
+  2. [전역변수](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#전역변수)
+12. [접근제어자](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#%접근제어자)
+18. [직렬화](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#직렬화)
+  1. [SerialVersionUID](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#serialversionuid)
+1. [Wrapper Class](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#wrapper-class)
+  1. [String은 래퍼클래스인데 == 비교시 값 같게 나오는 이유](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA#string%EC%9D%80-%EB%9E%98%ED%8D%BC%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%B8%EB%8D%B0--%EB%B9%84%EA%B5%90%EC%8B%9C-%EA%B0%92-%EA%B0%99%EA%B2%8C-%EB%82%98%EC%98%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+1. [제네릭](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#제너릭)
+11. [Final](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#final)
+1. [자바 버전](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#자바버전)
+10. [Static](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#static)
+14. [Annotation](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#annotation)
+17. [동기화 메소드](https://github.com/HK-An/today_i_learned/tree/main/02_JAVA/01_concept.md#동기화-메소드)
 
 [처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
 <hr />
@@ -168,6 +168,9 @@ abstract 지시자로 정의되며 상속을 강제하여 기능을 확장하기
 자바 가상 머신 위에서 실행되고 있는 자바 코드가 네이티브 응용 프로그램(하드웨어와 운영 체제 플랫폼에 종속된 프로그램들)과 다른 언어들로 작성된 라이브러리들을 호출하거나 반대로 호출되는 것을 가능하게 하는 프로그래밍 프레임워크
 ### Native Method Library
 
+[처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
+<hr />
+
 ## 자바메모리구조
 클래스로더에 의해 데이터가 적재되는 공간이다.
 
@@ -240,6 +243,9 @@ GC(Garbage Collector)라고 불리는 데몬 스레드에 의하여 실행되며
 
 OOP의 특징중에서 캡슐화라는 개념을 적용하기 위해서 사용한다. 캡슐화를 통하여 결합도를 낮추기 위해서 사용한다.
 
+[처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
+<hr />
+
 ## 직렬화
 객체를 입력 및 출력하기 위해서는 byte 배열로 만드는 과정이 필요한데, 이 과정을 직렬화(Serialize)라고 한다. 반대로 직렬화 되어 있는 byte 코드를 원래의 객체의 형태로 만드는 것을 역직렬화(Deserialize)라고 한다.
 
@@ -260,6 +266,7 @@ String은 Reference 타입이지만 string pool이라는 영역에 string 객체
 
 ## 제너릭
 클래스의 내부에서 사용할 데이터의 타입을 정의하지 않고 사용할 때 클래스 타입을 받아오도록 하는 것이다. 데이터를 제너릭으로 사용할 때는 항상 레퍼런스 타입으로 가져와야한다.
+
 [처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
 <hr />
 
