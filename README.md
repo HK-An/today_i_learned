@@ -52,15 +52,23 @@
 
 </details>
 
-### WEB [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_web.md.md)
+### WEB [(보러가기)](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/07_web.md.md)
 <details>
   <summary>접어두기</summary>
 
 - 브라우저에 url을 치면 일어나는 일
 - 쿠키와 세션
+- 캐시
+- URI, URL, URN
 - REST API, RESTful이란
+- HTTP 1,2,3
 - HTTP 응답코드
 - HTTPS
+- GET, POST 차이
+- HTTP 멱등성
+- JSON, XML 차이
+- MIME
+- AWS
 </details>
 
 ### 그외
