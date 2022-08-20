@@ -27,10 +27,11 @@
   1. [샤딩](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#샤딩)
   1. [리플리케이션](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#리플리케이션)
   1. [클러스터링](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#클러스터링)
-1. [트랜잭션 특징 ACID](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#트랜잭션-특징-acid)
-  1. [트랜잭션 상태](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#트랜잭션-상태)
-  1. [트랜잭션 격리 종류](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#트랜잭션-격리-종류)
-  1. [낮은 격리단계 선택시 발생 문제](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#낮은-격리단계-선택시-발생-문제)
+1. [트랜잭션]()
+    1. [트랜잭션 특징 ACID](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#트랜잭션-특징-acid)
+    1. [트랜잭션 상태](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#트랜잭션-상태)
+    1. [트랜잭션 격리 종류](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#트랜잭션-격리-종류)
+    1. [낮은 격리단계 선택시 발생 문제](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#낮은-격리단계-선택시-발생-문제)
 1. [Persistence Layer](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#persistence-layer)
 1. [UML](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#uml)
 1. [MySQL 특징](https://github.com/HK-An/today_i_learned/blob/main/01_COMPUTER_SCIENCE/03_database.md#mysql-특징)
@@ -133,10 +134,20 @@
 [처음으로 돌아가기](https://github.com/HK-An/today_i_learned/)
 <hr />
 
-## 트랜잭션 특징 ACID
-A: 원자성 C: 일관성 I: 격리성 D: 지속성
+## 트랜잭션
+데이터베이스의 상태를 변화시키기 위하여 수행하는 작업의 단위이다. 이때 사용하는 select, insert, delete, update 등의 질의는 한 문장이 아닐 수도 있으며 비즈니스 로직에 의해 정의된다.
 
-> 데이터베이스의 무결성과 일관성을 위해서 트랜잭션은 4가지 특징을 만족해야되는데요. 원자성은 한 트랜잭션내 실행한 작업은 모두 성공하거나 실패해야하는 것이고, 일관성은 일관성있는 데이터베이스의 상태를 유지시키는 것입니다. 그리고 격리성은 동시에 실행되는 트랜잭션은 서로에게 영향을 미치지 않아야 되고, 지속성은 트랜잭션 완료시 결과가 영구적으로 반영되어야 합니다.
+### 트랜잭션 특징 ACID
+- **원자성(Atomicity)**  
+트랜잭션은 데이터베이스에 모두 반영되거나 아니면 반영되지 않아야 한다.
+- **일관성(Consistency)**  
+트랜잭션의 작업 처리 결과는 항상 일관성이 있어야 한다.
+- **독립성/격리성(Isolation)**  
+트랜잭션은 다른 트랜잭션의 연산이 끝날때까지 관여할 수 없다.
+- **지속성(Durability)**  
+트랜잭션이 성공적으로 완료되었을 경우 결과는 영구적으로 반영되어야 한다.
+
+> 트랜잭션이란 데이터베이스의 상태를 변화하기 위하여 수행되는 작업의 단위입니다. 트랜잭션의 질의는 한 문장이 아닐 수도 있으며 비즈니스 로직에 의해서 정의되는데요. 트랜잭션은 데이터베이스의 무결성과 일관성을 위해서 4가지 특징을 만족해야합니다. 원자성은 한 트랜잭션내 실행한 작업은 모두 성공하거나 실패해야하는 것이고, 일관성은 일관성있는 데이터베이스의 상태를 유지시키는 것입니다. 그리고 격리성은 동시에 실행되는 트랜잭션은 서로에게 영향을 미치지 않아야 되고, 지속성은 트랜잭션 완료시 결과가 영구적으로 반영되어야 합니다.
 
 ### 트랜잭션 상태
 ### 트랜잭션 격리 종류
@@ -191,7 +202,6 @@ NOSQL은 스키마가 없어서 데이터를 조회하고 삽입하는 속도가
 
 ### CAP 이론
 ### NoSQL 종류
-### NoSQL 사용경험
 ### Redis
 ### 카산드라 특징 
 
